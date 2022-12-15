@@ -2,7 +2,7 @@
 Simple PHP library used to send Http 'GET' and 'POST' requests
 
 ##usage
-  <?php
+  ````<?php
       
       require("httpreq.php");
       
@@ -14,6 +14,6 @@ Simple PHP library used to send Http 'GET' and 'POST' requests
 	  var_dump($res["header"]);
 	  
 	  
-	  
+````  
 	  
 	
