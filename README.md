@@ -2,7 +2,7 @@
 Simple PHP library used to send Http 'GET' and 'POST' requests
 
 
-  ````
+  ```php
       
       require("httpreq.php");
       
